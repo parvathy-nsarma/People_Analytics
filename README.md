@@ -3,14 +3,14 @@
 HR Analytics: Job change of Data Scientists
 
 
-## The objective of the project is to predict the probability of a candidate to look for a new job or will work for the company.
+**The objective of the project is to predict the probability of a candidate to look for a new job or will work for the company.**
 
 
 The focus of this project is
 
-* Visualization
+* **Visualization**
 
-* Imbalance of data
+* **Imbalance of data**
 
 
 We use python profiling, matplotlib, seaborn to help us visualize data and understand patterns.
