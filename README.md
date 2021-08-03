@@ -65,7 +65,7 @@ Finally, we performed several machine learning algorithms to try to predict whet
 
 We looked at:
 
-Logisitic Regression Classifier
+Logistic Regression Classifier
 K Nearest Neighbors Classifier
 Support Vector Machines Classifier
 Decision Trees Classifier
