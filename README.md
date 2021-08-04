@@ -82,6 +82,14 @@ Models can utilize to better hyperparameter tuning and models like Light GBM can
 
 Working with catagorical features is difficult, especialy when using One-Hot Encoding, this lead to a messy dataframe and longer computational.
 
+- Detected patterns in the job change of the Data Scientists performing Exploratory Data Analysis and utilized Python profiling, Matplotlib and Seaborn to visualize the data.
+
+- Performed Logistic Regression, K Nearest Neighbors, Support Vector Machines, Decision Trees, Random Forests and retrained models after dealing with the imbalance of the data.
+
+- Performed SMOTE and Borderline SMOTE to deal with the imbalance of the data thereby improving the performance by reducing the misclassification of number of job seekers from 987 to 383 who was predicted as non-job seekers.
+
+- Predicted job seekers accurately 76% of the time using Logistic Regression.
+
 
 ## Reference
 
